@@ -35,28 +35,43 @@ My research interests lie in environmental economics, with a particular focus on
 
 <div class="education-list">
   <div class="education-item">
-    <div class="education-left">
-      <div class="education-degree">Ph.D. in Agricultural and Resource Economics</div>
-      <div class="education-school">University of Maryland</div>
+    <div class="education-header">
+      <span class="education-school">University of Maryland</span>
+      <span class="education-location">College Park</span>
     </div>
-    <div class="education-year">Current</div>
-  </div>
-  <div class="education-item">
-    <div class="education-left">
-      <div class="education-degree">M.S. in Economics &amp; Computation</div>
-      <div class="education-school">Duke University</div>
+    <div class="education-details">
+      <span class="education-degree"><em>Ph.D. in Agricultural and Resource Economics</em></span>
+      <span class="education-dates">Current</span>
     </div>
   </div>
   <div class="education-item">
-    <div class="education-left">
-      <div class="education-degree">B.A. in Economics &amp; B.S. in Mathematics</div>
-      <div class="education-school">University of Colorado, Denver</div>
+    <div class="education-header">
+      <span class="education-school">Duke University</span>
+      <span class="education-location">Durham</span>
+    </div>
+    <div class="education-details">
+      <span class="education-degree"><em>Master of Science in Economics &amp; Computation</em></span>
+      <span class="education-dates">Sep 2020 – May 2022</span>
     </div>
   </div>
   <div class="education-item">
-    <div class="education-left">
-      <div class="education-degree">B.A. in Economics</div>
-      <div class="education-school">China Agricultural University</div>
+    <div class="education-header">
+      <span class="education-school">University of Colorado, Denver</span>
+      <span class="education-location">Denver</span>
+    </div>
+    <div class="education-details">
+      <span class="education-degree"><em>Bachelor of Arts in Economics &amp; Bachelor of Science in Mathematics</em></span>
+      <span class="education-dates">Sep 2016 – May 2020</span>
+    </div>
+  </div>
+  <div class="education-item">
+    <div class="education-header">
+      <span class="education-school">China Agricultural University</span>
+      <span class="education-location">Beijing</span>
+    </div>
+    <div class="education-details">
+      <span class="education-degree"><em>Bachelor of Arts in Economics</em></span>
+      <span class="education-dates">Sep 2016 – May 2020</span>
     </div>
   </div>
 </div>
