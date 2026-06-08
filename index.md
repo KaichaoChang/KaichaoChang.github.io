@@ -93,22 +93,31 @@ My research interests lie in environmental economics, with a particular focus on
 
 ## Working Paper
 
-### Under Review
-
-### In Progress
 
 ## Teaching Experience
 
 <div class="publication-item">
-  <div class="publication-title">Teaching Assistant, DKU</div>
-  <div class="publication-authors">Supervisor: Ming Gu, Prof at Department of Economics</div>
-  <div class="publication-venue">October 2021--December 2021</div>
+  <div class="publication-title">AREC 455: Economics of Land Use</div>
+  <div class="publication-authors">Teaching Assistant to Dr. David Newburn</div>
+  <div class="publication-venue">University of Maryland, Fall 2023, Fall 2024, Fall 2025</div>
 </div>
 
 <div class="publication-item">
-  <div class="publication-title">Teaching Assistant, OSU</div>
-  <div class="publication-authors">Supervisor: John Riley, Associate Prof at Ferguson College of Agriculture</div>
-  <div class="publication-venue">September 2020--May 2021</div>
+  <div class="publication-title">AREC 454: The Economics of Climate Change</div>
+  <div class="publication-authors">Teaching Assistant to Dr. Anna Alberini</div>
+  <div class="publication-venue">University of Maryland, Spring 2025</div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-title">Economics 390: Tracking Warzone Economic Activity in Ukraine - A Data Science Approach</div>
+  <div class="publication-authors">Instructors with Dr. Mihnea Constantinescu, Charles Becker, Peter Devine </div>
+  <div class="publication-venue">Duke University, Spring 2023</div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-title">Economics 627/407: Soviet & Post-Soviet Economic History</div>
+  <div class="publication-authors">Teaching Assistant to Dr. Charles Becker</div>
+  <div class="publication-venue">Duke University, Fall 2021</div>
 </div>
 
 ## Selected Projects
