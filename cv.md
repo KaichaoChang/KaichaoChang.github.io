@@ -4,7 +4,7 @@ feature_text: |
   ## CV
   Education, experience, and selected achievements
 feature_image: "https://picsum.photos/1300/400?image=1043"
-excerpt: "CV for Zoe Huang."
+excerpt: "CV for Kaichao Chang."
 ---
 
 ## Education

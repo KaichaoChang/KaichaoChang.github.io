@@ -1,27 +1,27 @@
 ---
-title: Zoe Huang
+title: Kaichao Chang
 hide_title: true
 feature_text: |
   <div class="profile-hero" id="home">
     <div class="profile-photo-frame">
-      <img class="profile-photo" src="/assets/avatar.jpg" alt="Zoe Huang">
+      <img class="profile-photo" src="/assets/avatar.jpg" alt="Kaichao Chang">
     </div>
     <div class="profile-copy">
-      <h1>Ziyu (Zoe) Huang</h1>
-      <p class="profile-title">PhD at Penn State University</p>
+      <h1>Kaichao Chang</h1>
+      <p class="profile-title">PhD at University of Maryland</p>
     </div>
   </div>
-feature_image: "/assets/background.jpg"
-excerpt: "Personal website for Zoe Huang."
+feature_image: "/assets/background-flipped.jpg?v=20260608-flipped"
+excerpt: "Personal website for Kaichao Chang."
 ---
 
 ## About Me
 
-I am a PhD student at Penn State University. My work focuses on child welfare, early childhood development, and social policy, with an interest in using quantitative and spatial methods to understand how public systems identify risks, allocate resources, and support children and families.
+I am a PhD student at University of Maryland. My work focuses on child welfare, early childhood development, and social policy, with an interest in using quantitative and spatial methods to understand how public systems identify risks, allocate resources, and support children and families.
 
 I obtained a Master of Arts in Economics from **Duke University**, where I was a Merit Scholar. I also earned a Bachelor of Science in Agricultural Economics from **Oklahoma State University**, where I was named to the Dean's List and received the Ferguson College of Agriculture Scholarship. Earlier, I obtained a Bachelor of Agricultural Economics and Management from **International College Beijing, China Agricultural University**, where I received the First Class Scholarship for Academic Excellence.
 
-<p class="find-me">Find me at <a class="find-me-link" href="https://scholar.google.com/citations?hl=en&user=OruMd1oAAAAJ" aria-label="Google Scholar">{% include icon.html id="google-scholar" title="Google Scholar" %}<span>Google Scholar</span></a><a class="find-me-link" href="https://www.linkedin.com/in/ziyuhuang0201" aria-label="LinkedIn">{% include icon.html id="linkedin" title="LinkedIn" %}<span>LinkedIn</span></a></p>
+<p class="find-me">Find me at <a class="find-me-link" href="https://scholar.google.com/citations?user=WcxsVggAAAAJ&hl=en&oi=ao">{% include icon.html id="google-scholar" title="Google Scholar" %} Google Scholar</a></p>
 
 ## Research Interests
 
@@ -34,7 +34,7 @@ My research interests include [research area], [research area], and [research ar
 
 <div class="publication-item">
   <a class="publication-title" href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2840341">Role of Child Welfare in Detection and Treatment of Early Childhood Developmental Concerns</a>
-  <div class="publication-authors">Connell, C. M., Goldstein, E. G., <strong>Huang, Z.</strong>, & Font, S. A.</div>
+  <div class="publication-authors">Connell, C. M., Goldstein, E. G., <strong>Chang, K.</strong>, & Font, S. A.</div>
   <div class="publication-venue"><em>JAMA Health Forum</em>, 6(10), e254554. American Medical Association, 2025.</div>
 </div>
 
@@ -44,7 +44,7 @@ My research interests include [research area], [research area], and [research ar
 
 <div class="publication-item">
   <div class="publication-title">Beyond Hotspots: Leveraging Hawkes Modeling to Detect Transmission Dynamics in Child Physical Abuse</div>
-  <div class="publication-authors"><strong>Huang, Z.</strong>, Connell, C. M., & Xing, X.</div>
+  <div class="publication-authors"><strong>Chang, K.</strong>, Connell, C. M., & Xing, X.</div>
 </div>
 
 ## Teaching Experience

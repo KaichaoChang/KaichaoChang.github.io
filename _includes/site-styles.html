@@ -35,7 +35,7 @@
   }
 
   .header {
-    background: #eef2ed;
+    background: #e3eef7;
     padding-top: 3.5rem;
   }
 
@@ -60,7 +60,7 @@
     height: 3.5rem;
     transform: translateX(-50%);
     z-index: -1;
-    background: #eef2ed;
+    background: #e3eef7;
     box-shadow: 0 0.08rem 0.35rem rgba(0, 0, 0, 0.08);
   }
 
@@ -72,13 +72,13 @@
     scroll-padding-top: 4.5rem;
   }
 
-  .layout-page.zoe-huang .feature {
+  .layout-page.kaichao-chang .feature {
     --profile-banner-height: clamp(15rem, 30vw, 22rem);
     --profile-avatar-size: clamp(8.5rem, 15vw, 12rem);
     --profile-overlap: calc(var(--profile-avatar-size) * 0.5);
     background-color: #ffffff;
     background-image: linear-gradient(to bottom, transparent 0 var(--profile-banner-height), #ffffff var(--profile-banner-height)), var(--feature-image) !important;
-    background-position: top center, center 58%;
+    background-position: top center, center 78%;
     background-repeat: no-repeat;
     background-size: 100% 100%, cover;
     margin-bottom: 0;
@@ -87,7 +87,7 @@
     text-align: left;
   }
 
-  .layout-page.zoe-huang .feature .container {
+  .layout-page.kaichao-chang .feature .container {
     display: block;
     width: 92%;
     max-width: 68rem;
@@ -96,7 +96,7 @@
     padding-bottom: clamp(2.5rem, 5vw, 4rem);
   }
 
-  .layout-page.zoe-huang .feature .profile-hero {
+  .layout-page.kaichao-chang .feature .profile-hero {
     display: flex;
     align-items: flex-start;
     gap: clamp(1.75rem, 4vw, 3.25rem);
@@ -113,10 +113,10 @@
 
   .profile-photo {
     display: block;
-    width: 104%;
+    width: 135%;
     height: auto;
     max-width: none;
-    transform: translate(-2%, -1.5%);
+    transform: translate(-13%, -30%);
   }
 
   .profile-copy {
@@ -183,17 +183,23 @@
     margin-bottom: 1.5rem;
   }
 
-  .layout-page.zoe-huang .main {
+  .layout-page.kaichao-chang .main {
     margin-top: 0;
   }
 
+  @media screen and (min-width: 120em) {
+    .layout-page.kaichao-chang .feature {
+      background-position: top center, center 65%;
+    }
+  }
+
   @media screen and (max-width: 40em) {
-    .layout-page.zoe-huang .feature {
+    .layout-page.kaichao-chang .feature {
       --profile-banner-height: 14rem;
       --profile-avatar-size: 8rem;
     }
 
-    .layout-page.zoe-huang .feature .profile-hero {
+    .layout-page.kaichao-chang .feature .profile-hero {
       flex-direction: column;
       gap: 0;
       align-items: center;
