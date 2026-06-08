@@ -46,6 +46,11 @@ body,
   margin: .8rem 0 1.6rem;
 }
 
+.interest-tag-wrap {
+  display: inline-flex;
+  align-items: center;
+}
+
 .interest-tag {
   display: inline-block;
   padding: .3rem .9rem;
@@ -56,6 +61,12 @@ body,
   letter-spacing: .02em;
   background: transparent;
   color: #000000;
+}
+
+.interest-comma {
+  font-size: .85rem;
+  color: #000000;
+  margin-left: .1rem;
 }
 
 // Education list

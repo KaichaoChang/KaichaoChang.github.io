@@ -23,15 +23,15 @@ My research interests lie in environmental economics, with a particular focus on
 
 <p class="find-me">Find me at <a class="find-me-link" href="https://scholar.google.com/citations?user=WcxsVggAAAAJ&hl=en&oi=ao">{% include icon.html id="google-scholar" title="Google Scholar" %} Google Scholar</a></p>
 
-## Research Interests
+### Research Interests
 
 <div class="interest-tags">
-  <span class="interest-tag">Environmental Economics</span>
-  <span class="interest-tag">Development Economics</span>
-  <span class="interest-tag">Spatial Economics</span>
+  <span class="interest-tag-wrap"><span class="interest-tag">Environmental Economics</span><span class="interest-comma">,</span></span>
+  <span class="interest-tag-wrap"><span class="interest-tag">Development Economics</span><span class="interest-comma">,</span></span>
+  <span class="interest-tag-wrap"><span class="interest-tag">Spatial Economics</span></span>
 </div>
 
-## Education
+### Education
 
 <div class="education-list">
   <div class="education-item">
