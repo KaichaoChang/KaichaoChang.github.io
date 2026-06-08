@@ -37,3 +37,64 @@ body,
   color: #000000;
   background-image: linear-gradient(to bottom, transparent 50%, #000000 50%);
 }
+
+// Research interest tags
+.interest-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin: .8rem 0 1.6rem;
+}
+
+.interest-tag {
+  display: inline-block;
+  padding: .3rem .9rem;
+  border: 1.5px solid #000000;
+  border-radius: 2rem;
+  font-size: .85rem;
+  font-weight: 500;
+  letter-spacing: .02em;
+  background: transparent;
+  color: #000000;
+}
+
+// Education list
+.education-list {
+  margin: .8rem 0 1.6rem;
+}
+
+.education-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: .7rem 0;
+  border-bottom: 1px solid #e0e0e0;
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.education-left {
+  display: flex;
+  flex-direction: column;
+  gap: .15rem;
+}
+
+.education-degree {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #000000;
+}
+
+.education-school {
+  font-size: .9rem;
+  color: #444444;
+}
+
+.education-year {
+  font-size: .85rem;
+  color: #666666;
+  white-space: nowrap;
+  margin-left: 1rem;
+  padding-top: .1rem;
+}
