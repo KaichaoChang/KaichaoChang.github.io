@@ -17,15 +17,49 @@ excerpt: "Personal website for Kaichao Chang."
 
 ## About Me
 
-I am a PhD student at University of Maryland. My work focuses on child welfare, early childhood development, and social policy, with an interest in using quantitative and spatial methods to understand how public systems identify risks, allocate resources, and support children and families.
+Welcome! I am a third-year Ph.D. student in the Department of Agricultural and Resource Economics at the University of Maryland.
 
-I obtained a Master of Arts in Economics from **Duke University**, where I was a Merit Scholar. I also earned a Bachelor of Science in Agricultural Economics from **Oklahoma State University**, where I was named to the Dean's List and received the Ferguson College of Agriculture Scholarship. Earlier, I obtained a Bachelor of Agricultural Economics and Management from **International College Beijing, China Agricultural University**, where I received the First Class Scholarship for Academic Excellence.
+My research interests lie in environmental economics, with a particular focus on the economics of water and forests. I also specialize in geospatial analysis and the application of geographic data to economic research.
 
 <p class="find-me">Find me at <a class="find-me-link" href="https://scholar.google.com/citations?user=WcxsVggAAAAJ&hl=en&oi=ao">{% include icon.html id="google-scholar" title="Google Scholar" %} Google Scholar</a></p>
 
 ## Research Interests
 
-My research interests include [research area], [research area], and [research area]. Add a short description here summarizing the questions, methods, and application areas that guide my work.
+<div class="interest-tags">
+  <span class="interest-tag">Environmental Economics</span>
+  <span class="interest-tag">Development Economics</span>
+  <span class="interest-tag">Spatial Economics</span>
+</div>
+
+## Education
+
+<div class="education-list">
+  <div class="education-item">
+    <div class="education-left">
+      <div class="education-degree">Ph.D. in Agricultural and Resource Economics</div>
+      <div class="education-school">University of Maryland</div>
+    </div>
+    <div class="education-year">Current</div>
+  </div>
+  <div class="education-item">
+    <div class="education-left">
+      <div class="education-degree">M.S. in Economics &amp; Computation</div>
+      <div class="education-school">Duke University</div>
+    </div>
+  </div>
+  <div class="education-item">
+    <div class="education-left">
+      <div class="education-degree">B.A. in Economics &amp; B.S. in Mathematics</div>
+      <div class="education-school">University of Colorado, Denver</div>
+    </div>
+  </div>
+  <div class="education-item">
+    <div class="education-left">
+      <div class="education-degree">B.A. in Economics</div>
+      <div class="education-school">China Agricultural University</div>
+    </div>
+  </div>
+</div>
 
 ## Publications
 {:#publications}
