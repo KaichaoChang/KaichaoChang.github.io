@@ -82,19 +82,20 @@ My research interests lie in environmental economics, with a particular focus on
 ### Published
 
 <div class="publication-item">
-  <a class="publication-title" href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2840341">Role of Child Welfare in Detection and Treatment of Early Childhood Developmental Concerns</a>
-  <div class="publication-authors">Connell, C. M., Goldstein, E. G., <strong>Chang, K.</strong>, & Font, S. A.</div>
-  <div class="publication-venue"><em>JAMA Health Forum</em>, 6(10), e254554. American Medical Association, 2025.</div>
+  <a class="publication-title" href="https://www.sciencedirect.com/science/article/pii/S030147972503631X">High-resolution spatial modeling of household lawn fertilizer behavior: Implications for targeting nitrogen-reduction programs</a>
+  <div class="publication-authors">Newburn, D. A., Wang, H., Johnston, R. J., <strong>Chang, K.</strong>, & Ndebele, T.</div>
+  <div class="publication-venue"><em>Journal of Environmental Management</em>, 395, 127655. Academic Press, 2025.</div>
+</div>
+
+<div class="publication-item">
+  <a class="publication-title" href="https://www.forest-journal.com/index.php/JFBR/article/view/private-investment-forest-reforestation">Assessing conditions to scale up private investment in forest restoration</a>
+  <div class="publication-authors">Vincent, J., Aga, Y., Boscolo, M., <strong>Chang, K.</strong>, Cheng, Z., Dilger, J., Guerrero Machado, D., Herrera, D., Kaczan, D., McMahon, A., Rambaud, P., Spirovska Kono, M., Tenneson, K., Van Rijn, M., Walji, K., Yi, Y., & Finegold, Y.</div>
+  <div class="publication-venue"><em>Journal of Forest Business Research</em>, 4(1), 37–72. 2025.</div>
 </div>
 
 ### Under Review
 
 ### In Progress
-
-<div class="publication-item">
-  <div class="publication-title">Beyond Hotspots: Leveraging Hawkes Modeling to Detect Transmission Dynamics in Child Physical Abuse</div>
-  <div class="publication-authors"><strong>Chang, K.</strong>, Connell, C. M., & Xing, X.</div>
-</div>
 
 ## Teaching Experience
 
