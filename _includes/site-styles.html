@@ -1,0 +1,216 @@
+{% capture styles %}
+  $headingColour: #000000;
+  $bodyColour: #000000;
+  $linkColour: #000000;
+  $hoverColour: #000000;
+  $captionColour: #000000;
+
+  @import "alembic";
+
+  body,
+  .typeset,
+  .typeset h1,
+  .typeset h2,
+  .typeset h3,
+  .typeset h4,
+  .typeset h5,
+  .typeset h6,
+  .typeset p,
+  .typeset li,
+  .nav a,
+  .small,
+  .footer,
+  .footer a {
+    color: #000000;
+  }
+
+  .footer {
+    background: #ffffff;
+  }
+
+  .typeset p a,
+  .typeset li a {
+    color: #000000;
+    background-image: linear-gradient(to bottom, transparent 50%, #000000 50%);
+  }
+
+  .header {
+    background: #eef2ed;
+    padding-top: 3.5rem;
+  }
+
+  .header > .container {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    right: auto;
+    transform: translateX(-50%);
+    z-index: 1000;
+    width: 90%;
+    max-width: 1200px;
+    background: transparent;
+  }
+
+  .header > .container::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 50%;
+    width: 100vw;
+    height: 3.5rem;
+    transform: translateX(-50%);
+    z-index: -1;
+    background: #eef2ed;
+    box-shadow: 0 0.08rem 0.35rem rgba(0, 0, 0, 0.08);
+  }
+
+  .header .nav {
+    margin-left: auto;
+  }
+
+  html {
+    scroll-padding-top: 4.5rem;
+  }
+
+  .layout-page.zoe-huang .feature {
+    --profile-banner-height: clamp(15rem, 30vw, 22rem);
+    --profile-avatar-size: clamp(8.5rem, 15vw, 12rem);
+    --profile-overlap: calc(var(--profile-avatar-size) * 0.5);
+    background-color: #ffffff;
+    background-image: linear-gradient(to bottom, transparent 0 var(--profile-banner-height), #ffffff var(--profile-banner-height)), var(--feature-image) !important;
+    background-position: top center, center 58%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%, cover;
+    margin-bottom: 0;
+    padding: 0;
+    overflow: visible;
+    text-align: left;
+  }
+
+  .layout-page.zoe-huang .feature .container {
+    display: block;
+    width: 92%;
+    max-width: 68rem;
+    min-height: 0;
+    padding-top: calc(var(--profile-banner-height) - var(--profile-overlap));
+    padding-bottom: clamp(2.5rem, 5vw, 4rem);
+  }
+
+  .layout-page.zoe-huang .feature .profile-hero {
+    display: flex;
+    align-items: flex-start;
+    gap: clamp(1.75rem, 4vw, 3.25rem);
+  }
+
+  .profile-photo-frame {
+    width: var(--profile-avatar-size);
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    overflow: hidden;
+    flex: 0 0 auto;
+    box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.12);
+  }
+
+  .profile-photo {
+    display: block;
+    width: 104%;
+    height: auto;
+    max-width: none;
+    transform: translate(-2%, -1.5%);
+  }
+
+  .profile-copy {
+    margin-top: calc(var(--profile-overlap) + 0.9rem);
+  }
+
+  .profile-copy h1 {
+    margin: 0;
+    padding: 0;
+    color: #000000;
+  }
+
+  .profile-copy .profile-title {
+    margin: 0;
+    padding-top: 0.35rem;
+    color: #555555;
+  }
+
+  .typeset .find-me {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.7rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .typeset .find-me-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    color: #000000;
+    background-image: none;
+  }
+
+  .typeset .find-me-link .icon {
+    width: 1rem;
+    height: 1rem;
+  }
+
+  .typeset .publication-item {
+    margin-bottom: 1.5rem;
+  }
+
+  .typeset .publication-title {
+    display: inline;
+    color: #3f5666;
+    font-weight: 700;
+    background-image: none;
+  }
+
+  .typeset .publication-title:hover,
+  .typeset .publication-title:focus {
+    color: #000000;
+  }
+
+  .typeset .publication-authors,
+  .typeset .publication-venue,
+  .typeset .publication-placeholder {
+    color: #3f5666;
+    line-height: 1.55;
+  }
+
+  .typeset .publication-placeholder {
+    margin-bottom: 1.5rem;
+  }
+
+  .layout-page.zoe-huang .main {
+    margin-top: 0;
+  }
+
+  @media screen and (max-width: 40em) {
+    .layout-page.zoe-huang .feature {
+      --profile-banner-height: 14rem;
+      --profile-avatar-size: 8rem;
+    }
+
+    .layout-page.zoe-huang .feature .profile-hero {
+      flex-direction: column;
+      gap: 0;
+      align-items: center;
+      text-align: center;
+    }
+
+    .profile-copy {
+      margin-top: 1rem;
+    }
+
+    .profile-copy h1 {
+      transform: none;
+    }
+
+    .profile-copy .profile-title {
+      transform: none;
+    }
+  }
+{% endcapture %}
+<style>{{ styles | scssify | strip_newlines }}</style>

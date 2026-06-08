@@ -1,0 +1,39 @@
+---
+title: false
+styles: true
+---
+
+$headingColour: #000000;
+$bodyColour: #000000;
+$linkColour: #000000;
+$hoverColour: #000000;
+$captionColour: #000000;
+
+@import "alembic";
+
+body,
+.typeset,
+.typeset h1,
+.typeset h2,
+.typeset h3,
+.typeset h4,
+.typeset h5,
+.typeset h6,
+.typeset p,
+.typeset li,
+.nav a,
+.small,
+.footer,
+.footer a {
+  color: #000000;
+}
+
+.footer {
+  background: #ffffff;
+}
+
+.typeset p a,
+.typeset li a {
+  color: #000000;
+  background-image: linear-gradient(to bottom, transparent 50%, #000000 50%);
+}
