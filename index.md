@@ -79,8 +79,6 @@ My research interests lie in environmental economics, with a particular focus on
 ## Publications
 {:#publications}
 
-### Published
-
 <div class="publication-item">
   <a class="publication-title" href="https://www.sciencedirect.com/science/article/pii/S030147972503631X">High-resolution spatial modeling of household lawn fertilizer behavior: Implications for targeting nitrogen-reduction programs</a>
   <div class="publication-authors">Newburn, D. A., Wang, H., Johnston, R. J., <strong>Chang, K.</strong>, & Ndebele, T.</div>
@@ -92,6 +90,8 @@ My research interests lie in environmental economics, with a particular focus on
   <div class="publication-authors">Vincent, J., Aga, Y., Boscolo, M., <strong>Chang, K.</strong>, Cheng, Z., Dilger, J., Guerrero Machado, D., Herrera, D., Kaczan, D., McMahon, A., Rambaud, P., Spirovska Kono, M., Tenneson, K., Van Rijn, M., Walji, K., Yi, Y., & Finegold, Y.</div>
   <div class="publication-venue"><em>Journal of Forest Business Research</em>, 4(1), 37–72. 2025.</div>
 </div>
+
+## Working Paper
 
 ### Under Review
 
