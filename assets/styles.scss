@@ -46,6 +46,11 @@ body,
   margin: .8rem 0 1.6rem;
 }
 
+.interest-tag-wrap {
+  display: inline-flex;
+  align-items: center;
+}
+
 .interest-tag {
   display: inline-block;
   padding: .3rem .9rem;
@@ -58,43 +63,59 @@ body,
   color: #000000;
 }
 
+.interest-comma {
+  font-size: .85rem;
+  color: #000000;
+  margin-left: .1rem;
+}
+
 // Education list
 .education-list {
   margin: .8rem 0 1.6rem;
 }
 
 .education-item {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  padding: .7rem 0;
+  padding: .6rem 0;
   border-bottom: 1px solid #e0e0e0;
   &:last-child {
     border-bottom: none;
   }
 }
 
-.education-left {
+.education-header {
   display: flex;
-  flex-direction: column;
-  gap: .15rem;
+  justify-content: space-between;
+  align-items: baseline;
 }
 
-.education-degree {
-  font-weight: 600;
+.education-school {
+  font-weight: 700;
   font-size: 1rem;
   color: #000000;
 }
 
-.education-school {
+.education-location {
   font-size: .9rem;
-  color: #444444;
-}
-
-.education-year {
-  font-size: .85rem;
-  color: #666666;
+  color: #000000;
   white-space: nowrap;
   margin-left: 1rem;
-  padding-top: .1rem;
+}
+
+.education-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-top: .1rem;
+}
+
+.education-degree {
+  font-size: .9rem;
+  color: #000000;
+}
+
+.education-dates {
+  font-size: .85rem;
+  color: #444444;
+  white-space: nowrap;
+  margin-left: 1rem;
 }

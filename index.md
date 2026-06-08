@@ -23,40 +23,55 @@ My research interests lie in environmental economics, with a particular focus on
 
 <p class="find-me">Find me at <a class="find-me-link" href="https://scholar.google.com/citations?user=WcxsVggAAAAJ&hl=en&oi=ao">{% include icon.html id="google-scholar" title="Google Scholar" %} Google Scholar</a></p>
 
-## Research Interests
+### Research Interests
 
 <div class="interest-tags">
-  <span class="interest-tag">Environmental Economics</span>
-  <span class="interest-tag">Development Economics</span>
-  <span class="interest-tag">Spatial Economics</span>
+  <span class="interest-tag-wrap"><span class="interest-tag">Environmental Economics</span><span class="interest-comma">,</span></span>
+  <span class="interest-tag-wrap"><span class="interest-tag">Development Economics</span><span class="interest-comma">,</span></span>
+  <span class="interest-tag-wrap"><span class="interest-tag">Spatial Economics</span></span>
 </div>
 
-## Education
+### Education
 
 <div class="education-list">
   <div class="education-item">
-    <div class="education-left">
-      <div class="education-degree">Ph.D. in Agricultural and Resource Economics</div>
-      <div class="education-school">University of Maryland</div>
+    <div class="education-header">
+      <span class="education-school">University of Maryland</span>
+      <span class="education-location">College Park</span>
     </div>
-    <div class="education-year">Current</div>
-  </div>
-  <div class="education-item">
-    <div class="education-left">
-      <div class="education-degree">M.S. in Economics &amp; Computation</div>
-      <div class="education-school">Duke University</div>
+    <div class="education-details">
+      <span class="education-degree"><em>Ph.D. in Agricultural and Resource Economics</em></span>
+      <span class="education-dates">Current</span>
     </div>
   </div>
   <div class="education-item">
-    <div class="education-left">
-      <div class="education-degree">B.A. in Economics &amp; B.S. in Mathematics</div>
-      <div class="education-school">University of Colorado, Denver</div>
+    <div class="education-header">
+      <span class="education-school">Duke University</span>
+      <span class="education-location">Durham</span>
+    </div>
+    <div class="education-details">
+      <span class="education-degree"><em>Master of Science in Economics &amp; Computation</em></span>
+      <span class="education-dates">Sep 2020 – May 2022</span>
     </div>
   </div>
   <div class="education-item">
-    <div class="education-left">
-      <div class="education-degree">B.A. in Economics</div>
-      <div class="education-school">China Agricultural University</div>
+    <div class="education-header">
+      <span class="education-school">University of Colorado, Denver</span>
+      <span class="education-location">Denver</span>
+    </div>
+    <div class="education-details">
+      <span class="education-degree"><em>Bachelor of Arts in Economics &amp; Bachelor of Science in Mathematics</em></span>
+      <span class="education-dates">Sep 2016 – May 2020</span>
+    </div>
+  </div>
+  <div class="education-item">
+    <div class="education-header">
+      <span class="education-school">China Agricultural University</span>
+      <span class="education-location">Beijing</span>
+    </div>
+    <div class="education-details">
+      <span class="education-degree"><em>Bachelor of Arts in Economics</em></span>
+      <span class="education-dates">Sep 2016 – May 2020</span>
     </div>
   </div>
 </div>
@@ -64,35 +79,45 @@ My research interests lie in environmental economics, with a particular focus on
 ## Publications
 {:#publications}
 
-### Published
-
 <div class="publication-item">
-  <a class="publication-title" href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2840341">Role of Child Welfare in Detection and Treatment of Early Childhood Developmental Concerns</a>
-  <div class="publication-authors">Connell, C. M., Goldstein, E. G., <strong>Chang, K.</strong>, & Font, S. A.</div>
-  <div class="publication-venue"><em>JAMA Health Forum</em>, 6(10), e254554. American Medical Association, 2025.</div>
+  <a class="publication-title" href="https://www.sciencedirect.com/science/article/pii/S030147972503631X">High-resolution spatial modeling of household lawn fertilizer behavior: Implications for targeting nitrogen-reduction programs</a>
+  <div class="publication-authors">Newburn, D. A., Wang, H., Johnston, R. J., <strong>Chang, K.</strong>, & Ndebele, T.</div>
+  <div class="publication-venue"><em>Journal of Environmental Management</em>, 395, 127655. Academic Press, 2025.</div>
 </div>
 
-### Under Review
-
-### In Progress
-
 <div class="publication-item">
-  <div class="publication-title">Beyond Hotspots: Leveraging Hawkes Modeling to Detect Transmission Dynamics in Child Physical Abuse</div>
-  <div class="publication-authors"><strong>Chang, K.</strong>, Connell, C. M., & Xing, X.</div>
+  <a class="publication-title" href="https://www.forest-journal.com/index.php/JFBR/article/view/private-investment-forest-reforestation">Assessing conditions to scale up private investment in forest restoration</a>
+  <div class="publication-authors">Vincent, J., Aga, Y., Boscolo, M., <strong>Chang, K.</strong>, Cheng, Z., Dilger, J., Guerrero Machado, D., Herrera, D., Kaczan, D., McMahon, A., Rambaud, P., Spirovska Kono, M., Tenneson, K., Van Rijn, M., Walji, K., Yi, Y., & Finegold, Y.</div>
+  <div class="publication-venue"><em>Journal of Forest Business Research</em>, 4(1), 37–72. 2025.</div>
 </div>
+
+## Working Paper
+
 
 ## Teaching Experience
 
 <div class="publication-item">
-  <div class="publication-title">Teaching Assistant, DKU</div>
-  <div class="publication-authors">Supervisor: Ming Gu, Prof at Department of Economics</div>
-  <div class="publication-venue">October 2021--December 2021</div>
+  <div class="publication-title">AREC 455: Economics of Land Use</div>
+  <div class="publication-authors">Teaching Assistant to Dr. David Newburn</div>
+  <div class="publication-venue">University of Maryland, Fall 2023, Fall 2024, Fall 2025</div>
 </div>
 
 <div class="publication-item">
-  <div class="publication-title">Teaching Assistant, OSU</div>
-  <div class="publication-authors">Supervisor: John Riley, Associate Prof at Ferguson College of Agriculture</div>
-  <div class="publication-venue">September 2020--May 2021</div>
+  <div class="publication-title">AREC 454: The Economics of Climate Change</div>
+  <div class="publication-authors">Teaching Assistant to Dr. Anna Alberini</div>
+  <div class="publication-venue">University of Maryland, Spring 2025</div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-title">Economics 390: Tracking Warzone Economic Activity in Ukraine - A Data Science Approach</div>
+  <div class="publication-authors">Instructors with Dr. Mihnea Constantinescu, Charles Becker, Peter Devine </div>
+  <div class="publication-venue">Duke University, Spring 2023</div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-title">Economics 627/407: Soviet & Post-Soviet Economic History</div>
+  <div class="publication-authors">Teaching Assistant to Dr. Charles Becker</div>
+  <div class="publication-venue">Duke University, Fall 2021</div>
 </div>
 
 ## Selected Projects
