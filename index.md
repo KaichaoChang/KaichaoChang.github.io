@@ -38,45 +38,45 @@ My research interests lie in environmental economics, with a particular focus on
   <div class="education-item">
     <div class="education-degree-row">
       <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Ph.D. in Agricultural and Resource Economics</em></span>
+      <span class="education-dates">Sept 2026 –</span>
     </div>
     <div class="education-info-row">
-      <span class="education-dates">Sept 2026 –</span>
       <span class="education-place"><strong>University of Maryland</strong> · College Park, MD</span>
     </div>
   </div>
   <div class="education-item">
     <div class="education-degree-row">
       <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Master of Science in Economics &amp; Computation</em></span>
+      <span class="education-dates">Sept 2020 – May 2022</span>
     </div>
     <div class="education-info-row">
-      <span class="education-dates">Sept 2020 – May 2022</span>
       <span class="education-place"><strong>Duke University</strong> · Durham, NC</span>
     </div>
   </div>
   <div class="education-item">
     <div class="education-degree-row">
       <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Bachelor of Arts in Economics</em></span>
+      <span class="education-dates">Sept 2016 – May 2020</span>
     </div>
     <div class="education-info-row">
-      <span class="education-dates">Sept 2016 – May 2020</span>
       <span class="education-place"><strong>University of Colorado</strong> · Denver, CO</span>
     </div>
   </div>
   <div class="education-item">
     <div class="education-degree-row">
       <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Bachelor of Science in Mathematics</em></span>
+      <span class="education-dates">Sept 2016 – May 2020</span>
     </div>
     <div class="education-info-row">
-      <span class="education-dates">Sept 2016 – May 2020</span>
       <span class="education-place"><strong>University of Colorado</strong> · Denver, CO</span>
     </div>
   </div>
   <div class="education-item">
     <div class="education-degree-row">
       <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Bachelor of Arts in Economics</em></span>
+      <span class="education-dates">Sept 2016 – May 2020</span>
     </div>
     <div class="education-info-row">
-      <span class="education-dates">Sept 2016 – May 2020</span>
       <span class="education-place"><strong>China Agricultural University</strong> · Beijing, China</span>
     </div>
   </div>
@@ -91,7 +91,7 @@ My research interests lie in environmental economics, with a particular focus on
   <div class="publication-venue"><em>Journal of Environmental Management</em>, 395, 127655. Academic Press, 2025.</div>
   <details class="abstract-dropdown">
     <summary>Abstract</summary>
-    <p class="abstract-text">Residential lawns cover a substantial area within urbanized regions and household fertilizer applications represent a major nonpoint source of nitrogen pollution. We develop a methodology using a two-part hurdle regression model to predict lawn fertilizer behavior across 431,349 single-family households in Connecticut's coastal counties. [Please fill in the full abstract — the paper is behind a paywall and the full text could not be retrieved automatically.]</p>
+    <p class="abstract-text">Residential lawns cover a substantial area within urbanized regions and household fertilizer applications represent a major nonpoint source of nitrogen pollution. This paper develops a novel methodology for an integrated model that produces parcel-level, large-scale predictions of residential lawn fertilizer use and corresponding nitrogen applications. An illustrative application of this methodology is provided for Connecticut coastal counties within the Long Island Sound watershed to allow the comparison of targeting strategies for nitrogen fertilizer-reduction programs. A two-part hurdle regression model of household lawn fertilizer behavior is estimated using household survey data. Hurdle model estimation results are then used to predict lawn-fertilizer behavior for all single-family households in the region (N = 431,349) based on observable property characteristics and household demographics. Predictions integrate model results with high-resolution land cover data to identify lawn footprints and a simulation procedure to incorporate demographic information for households that were not in the survey sample, thereby producing parcel-level estimates of nitrogen applied to lawns. The effectiveness of nitrogen-reduction scenarios is compared for the optimal, simple rule-based, and municipal-level targeting strategies. Large variations in fertilizer and nitrogen applications exist over household types and municipalities. The majority of predicted nitrogen application is due to a small subpopulation of households, primarily parcels with newer, larger homes on large exurban lots. Results demonstrate that targeting strategies play a key role in the potential effectiveness of nitrogen-reduction programs. Findings such as these illustrate the insights for policy guidance that can be provided through integrated approaches that predict household-level fertilizer use across the landscape.</p>
   </details>
 </div>
 

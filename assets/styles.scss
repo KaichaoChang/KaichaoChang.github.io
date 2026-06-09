@@ -121,13 +121,14 @@ body,
 }
 
 .education-degree-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
   margin-bottom: .15rem;
 }
 
 .education-info-row {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
+  // institution + location only
 }
 
 .education-degree {
