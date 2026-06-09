@@ -114,7 +114,7 @@ body,
 }
 
 .education-item {
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.8rem;
   &:last-child {
     margin-bottom: 0;
   }
@@ -147,7 +147,8 @@ body,
 
 .education-university {
   font-size: .9rem;
-  strong { color: #000000; }
+  color: #666666;
+  strong { color: #666666; font-weight: normal; }
 }
 
 .education-location {
