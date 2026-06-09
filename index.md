@@ -122,6 +122,15 @@ My research interests lie in environmental economics, with a particular focus on
   </details>
 </div>
 
+## Program
+{:#projects}
+
+<div class="publication-item">
+  <a class="publication-title" href="https://experience.arcgis.com/experience/fdf001fd55c9450da7b61f3314adaf9c">Targeting Lawn Fertilizer Reduction Programs</a>
+  <div class="publication-subtitle">Using social science &amp; geospatial analysis to reduce N loads from home lawns to Long Island Sound</div>
+  <div class="publication-authors">D. Dickson, Q. LeiParent, J. Vaudrey, R. Johnston, D. Newburn, H. Wang, T. Ndebele, <strong>K. Chang</strong>, D. Wietelman</div>
+</div>
+
 ## Teaching Experience
 {:#teaching}
 
@@ -147,15 +156,6 @@ My research interests lie in environmental economics, with a particular focus on
   <div class="publication-title">Economics 627/407: Soviet & Post-Soviet Economic History</div>
   <div class="publication-authors">Teaching Assistant to Dr. Charles Becker</div>
   <div class="publication-venue">Duke University, Fall 2021</div>
-</div>
-
-## Program
-{:#projects}
-
-<div class="publication-item">
-  <a class="publication-title" href="https://experience.arcgis.com/experience/fdf001fd55c9450da7b61f3314adaf9c">Targeting Lawn Fertilizer Reduction Programs</a>
-  <div class="publication-subtitle">Using social science &amp; geospatial analysis to reduce N loads from home lawns to Long Island Sound</div>
-  <div class="publication-authors">D. Dickson, Q. LeiParent, J. Vaudrey, R. Johnston, D. Newburn, H. Wang, T. Ndebele, <strong>K. Chang</strong>, D. Wietelman</div>
 </div>
 
 ## Contact
