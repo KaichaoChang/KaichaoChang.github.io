@@ -12,7 +12,7 @@ feature_text: |
       <p class="profile-subtitle"><a href="https://arec.umd.edu/">University of Maryland AREC</a></p>
     </div>
   </div>
-feature_image: "/assets/background.jpg"
+feature_image: "/assets/background-flipped.jpg"
 excerpt: "Personal website for Kaichao Chang."
 ---
 
