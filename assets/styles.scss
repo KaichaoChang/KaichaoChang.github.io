@@ -121,16 +121,12 @@ body,
 }
 
 .education-degree-row {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  margin-bottom: .15rem;
+  margin-bottom: .1rem;
 }
 
 .education-info-row {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
+  font-size: .85rem;
+  color: #555555;
 }
 
 .education-degree {
@@ -139,21 +135,19 @@ body,
 }
 
 .education-dates {
-  font-size: .85rem;
-  color: #444444;
-  white-space: nowrap;
+  color: #555555;
 }
 
 .education-university {
-  font-size: .9rem;
-  color: #444444;
   strong { color: #000000; }
 }
 
 .education-location {
-  font-size: .85rem;
-  color: #444444;
-  white-space: nowrap;
+  color: #555555;
+}
+
+.education-sep {
+  color: #aaaaaa;
 }
 
 // Publication subtitle
