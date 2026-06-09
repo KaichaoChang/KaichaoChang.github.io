@@ -128,7 +128,9 @@ body,
 }
 
 .education-info-row {
-  // institution + location only
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
 }
 
 .education-degree {
@@ -142,12 +144,16 @@ body,
   white-space: nowrap;
 }
 
-.education-place {
+.education-university {
   font-size: .9rem;
   color: #444444;
-  white-space: nowrap;
-  margin-left: 1rem;
   strong { color: #000000; }
+}
+
+.education-location {
+  font-size: .85rem;
+  color: #444444;
+  white-space: nowrap;
 }
 
 // Publication subtitle

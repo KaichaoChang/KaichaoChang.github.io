@@ -41,7 +41,8 @@ My research interests lie in environmental economics, with a particular focus on
       <span class="education-dates">Sept 2026 –</span>
     </div>
     <div class="education-info-row">
-      <span class="education-place"><strong>University of Maryland</strong> · College Park, MD</span>
+      <span class="education-university"><strong>University of Maryland</strong></span>
+      <span class="education-location">College Park, MD</span>
     </div>
   </div>
   <div class="education-item">
@@ -50,7 +51,8 @@ My research interests lie in environmental economics, with a particular focus on
       <span class="education-dates">Sept 2020 – May 2022</span>
     </div>
     <div class="education-info-row">
-      <span class="education-place"><strong>Duke University</strong> · Durham, NC</span>
+      <span class="education-university"><strong>Duke University</strong></span>
+      <span class="education-location">Durham, NC</span>
     </div>
   </div>
   <div class="education-item">
@@ -59,7 +61,8 @@ My research interests lie in environmental economics, with a particular focus on
       <span class="education-dates">Sept 2016 – May 2020</span>
     </div>
     <div class="education-info-row">
-      <span class="education-place"><strong>University of Colorado</strong> · Denver, CO</span>
+      <span class="education-university"><strong>University of Colorado</strong></span>
+      <span class="education-location">Denver, CO</span>
     </div>
   </div>
   <div class="education-item">
@@ -68,7 +71,8 @@ My research interests lie in environmental economics, with a particular focus on
       <span class="education-dates">Sept 2016 – May 2020</span>
     </div>
     <div class="education-info-row">
-      <span class="education-place"><strong>University of Colorado</strong> · Denver, CO</span>
+      <span class="education-university"><strong>University of Colorado</strong></span>
+      <span class="education-location">Denver, CO</span>
     </div>
   </div>
   <div class="education-item">
@@ -77,7 +81,8 @@ My research interests lie in environmental economics, with a particular focus on
       <span class="education-dates">Sept 2016 – May 2020</span>
     </div>
     <div class="education-info-row">
-      <span class="education-place"><strong>China Agricultural University</strong> · Beijing, China</span>
+      <span class="education-university"><strong>China Agricultural University</strong></span>
+      <span class="education-location">Beijing, China</span>
     </div>
   </div>
 </div>
