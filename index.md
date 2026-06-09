@@ -9,10 +9,10 @@ feature_text: |
     <div class="profile-copy">
       <h1>Kaichao Chang</h1>
       <p class="profile-title">Ph.D. Student in Agricultural and Resource Economics</p>
-      <p class="profile-subtitle"><a href="https://arec.umd.edu/">University of Maryland</a></p>
+      <p class="profile-subtitle"><a href="https://arec.umd.edu/">University of Maryland AREC</a></p>
     </div>
   </div>
-feature_image: "/assets/background-flipped.jpg?v=20260608-flipped"
+feature_image: "/assets/background-flipped.png"
 excerpt: "Personal website for Kaichao Chang."
 ---
 
@@ -22,7 +22,7 @@ Welcome! I am a third-year Ph.D. student in the Department of Agricultural and R
 
 My research interests lie in environmental economics, with a particular focus on the economics of water and forests. I also specialize in geospatial analysis and the application of geographic data to economic research.
 
-<p class="find-me">Find me at <a class="find-me-link" href="https://scholar.google.com/citations?user=WcxsVggAAAAJ&hl=en&oi=ao">{% include icon.html id="google-scholar" title="Google Scholar" %} Google Scholar</a></p>
+<p class="find-me">Find me at <a class="find-me-link" href="https://scholar.google.com/citations?user=WcxsVggAAAAJ&hl=en&oi=ao">{% include icon.html id="google-scholar" title="Google Scholar" %} Google Scholar</a> &nbsp;·&nbsp; <a class="find-me-link" href="https://www.researchgate.net/profile/Kaichao-Chang">{% include icon.html id="researchgate" title="ResearchGate" %} ResearchGate</a></p>
 
 ### Research Interests
 
@@ -36,31 +36,43 @@ My research interests lie in environmental economics, with a particular focus on
 
 <div class="education-list">
   <div class="education-item">
-    <div class="education-degree-line"><em>Ph.D. in Agricultural and Resource Economics</em></div>
-    <div class="education-info-line">
-      <span class="education-school">University of Maryland, College Park</span>
+    <div class="education-row">
+      <span class="education-degree">{% include icon.html id="graduation-cap" title="Education" %} <em>Ph.D. in Agricultural and Resource Economics</em></span>
       <span class="education-dates">Sept 2026 –</span>
     </div>
+    <div class="education-row">
+      <span class="education-school">University of Maryland</span>
+      <span class="education-location">College Park, MD</span>
+    </div>
   </div>
   <div class="education-item">
-    <div class="education-degree-line"><em>Master of Science in Economics &amp; Computation</em></div>
-    <div class="education-info-line">
-      <span class="education-school">Duke University, Durham</span>
+    <div class="education-row">
+      <span class="education-degree">{% include icon.html id="graduation-cap" title="Education" %} <em>Master of Science in Economics &amp; Computation</em></span>
       <span class="education-dates">Sept 2020 – May 2022</span>
     </div>
-  </div>
-  <div class="education-item">
-    <div class="education-degree-line"><em>Bachelor of Arts in Economics &amp; Bachelor of Science in Mathematics</em></div>
-    <div class="education-info-line">
-      <span class="education-school">University of Colorado, Denver</span>
-      <span class="education-dates">Sept 2016 – May 2020</span>
+    <div class="education-row">
+      <span class="education-school">Duke University</span>
+      <span class="education-location">Durham, NC</span>
     </div>
   </div>
   <div class="education-item">
-    <div class="education-degree-line"><em>Bachelor of Arts in Economics</em></div>
-    <div class="education-info-line">
-      <span class="education-school">China Agricultural University, Beijing</span>
+    <div class="education-row">
+      <span class="education-degree">{% include icon.html id="graduation-cap" title="Education" %} <em>Bachelor of Arts in Economics &amp; Bachelor of Science in Mathematics</em></span>
       <span class="education-dates">Sept 2016 – May 2020</span>
+    </div>
+    <div class="education-row">
+      <span class="education-school">University of Colorado</span>
+      <span class="education-location">Denver, CO</span>
+    </div>
+  </div>
+  <div class="education-item">
+    <div class="education-row">
+      <span class="education-degree">{% include icon.html id="graduation-cap" title="Education" %} <em>Bachelor of Arts in Economics</em></span>
+      <span class="education-dates">Sept 2016 – May 2020</span>
+    </div>
+    <div class="education-row">
+      <span class="education-school">China Agricultural University</span>
+      <span class="education-location">Beijing, China</span>
     </div>
   </div>
 </div>
@@ -117,53 +129,11 @@ My research interests lie in environmental economics, with a particular focus on
   <div class="publication-venue">Duke University, Fall 2021</div>
 </div>
 
-## Selected Projects
+## Program
 {:#projects}
 
 <div class="publication-item">
-  <div class="publication-title">Access to Trauma Supports and Risk of Child Maltreatment Fatality</div>
-  <div class="publication-authors">Current Project, Christian Connell, Dylan Jones and Marci Cross, PSU</div>
-  <div class="publication-venue">Sep 2025--Present</div>
-</div>
-
-<div class="publication-item">
-  <div class="publication-title">Early Childhood Developmental Concerns and Early Intervention Supports among Medicaid-Enrolled Children with Child Welfare Involvement</div>
-  <div class="publication-authors">Research Assistant, Christian Connell, Ken Young Family Professor for Healthy Children, PSU</div>
-  <div class="publication-venue">September 2023--September 2024</div>
-</div>
-
-<div class="publication-item">
-  <div class="publication-title">The Impact of North Carolina's Public Pre-kindergarten Program</div>
-  <div class="publication-authors">Research Assistant, Kenneth Dodge, Distinguished Professor at Sanford School of Public Policy, Duke University</div>
-  <div class="publication-venue">September 2022--May 2023</div>
-</div>
-
-<div class="publication-item">
-  <div class="publication-title">Parenting Across Cultures</div>
-  <div class="publication-authors">Research Assistant, Ann Skinner, Research Scientist at Center for Child & Family Policy, Duke University</div>
-  <div class="publication-venue">August 2022--May 2023</div>
-</div>
-
-<div class="publication-item">
-  <div class="publication-title">Climate Migration</div>
-  <div class="publication-authors">Research Group Team Member, Sarah Bermeo, Professor at Sanford School of Public Policy, Duke University</div>
-  <div class="publication-venue">August 2022--May 2023</div>
-</div>
-
-<div class="publication-item">
-  <div class="publication-title">The Disparate Impact of COVID-19</div>
-  <div class="publication-authors">Research Assistant, Omer Ali, Postdoctoral Scholar at The Samuel DuBois Cook Center, Duke University</div>
-  <div class="publication-venue">April 2022--September 2022</div>
-</div>
-
-<div class="publication-item">
-  <div class="publication-title">The Transformations in Public Economics in the Post-WWII Period</div>
-  <div class="publication-authors">Research Assistant, Steven Medema, George Family Research Professor at Department of Economics, Duke University</div>
-  <div class="publication-venue">February 2022--August 2022</div>
-</div>
-
-<div class="publication-item">
-  <div class="publication-title">Undergraduate Research Program</div>
-  <div class="publication-authors">Research Group Team Member, Weizhe Feng, Prof at International College Beijing, China Agricultural University</div>
-  <div class="publication-venue">September 2018--June 2019</div>
+  <a class="publication-title" href="https://experience.arcgis.com/experience/fdf001fd55c9450da7b61f3314adaf9c">Targeting Lawn Fertilizer Reduction Programs</a>
+  <div class="publication-subtitle">Using social science &amp; geospatial analysis to reduce N loads from home lawns to Long Island Sound</div>
+  <div class="publication-authors">D. Dickson, Q. LeiParent, J. Vaudrey, R. Johnston, D. Newburn, H. Wang, T. Ndebele, <strong>K. Chang</strong>, D. Wietelman</div>
 </div>
