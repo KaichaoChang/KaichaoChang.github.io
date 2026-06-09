@@ -38,41 +38,51 @@ My research interests lie in environmental economics, with a particular focus on
   <div class="education-item">
     <div class="education-degree-row">
       <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Ph.D. in Agricultural and Resource Economics</em></span>
+      <span class="education-dates">Sept 2026 –</span>
     </div>
     <div class="education-info-row">
-      <span class="education-dates">Sept 2026 –</span><span class="education-sep"> · </span><span class="education-university"><strong>University of Maryland</strong></span><span class="education-sep">, </span><span class="education-location">College Park</span>
+      <span class="education-university"><strong>University of Maryland</strong></span>
+      <span class="education-location">College Park</span>
     </div>
   </div>
   <div class="education-item">
     <div class="education-degree-row">
       <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Master of Science in Economics &amp; Computation</em></span>
+      <span class="education-dates">Sept 2020 – May 2022</span>
     </div>
     <div class="education-info-row">
-      <span class="education-dates">Sept 2020 – May 2022</span><span class="education-sep"> · </span><span class="education-university"><strong>Duke University</strong></span><span class="education-sep">, </span><span class="education-location">Durham</span>
+      <span class="education-university"><strong>Duke University</strong></span>
+      <span class="education-location">Durham</span>
     </div>
   </div>
   <div class="education-item">
     <div class="education-degree-row">
       <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Bachelor of Arts in Economics</em></span>
+      <span class="education-dates">Sept 2016 – May 2020</span>
     </div>
     <div class="education-info-row">
-      <span class="education-dates">Sept 2016 – May 2020</span><span class="education-sep"> · </span><span class="education-university"><strong>University of Colorado</strong></span><span class="education-sep">, </span><span class="education-location">Denver</span>
+      <span class="education-university"><strong>University of Colorado</strong></span>
+      <span class="education-location">Denver</span>
     </div>
   </div>
   <div class="education-item">
     <div class="education-degree-row">
       <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Bachelor of Science in Mathematics</em></span>
+      <span class="education-dates">Sept 2016 – May 2020</span>
     </div>
     <div class="education-info-row">
-      <span class="education-dates">Sept 2016 – May 2020</span><span class="education-sep"> · </span><span class="education-university"><strong>University of Colorado</strong></span><span class="education-sep">, </span><span class="education-location">Denver</span>
+      <span class="education-university"><strong>University of Colorado</strong></span>
+      <span class="education-location">Denver</span>
     </div>
   </div>
   <div class="education-item">
     <div class="education-degree-row">
       <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Bachelor of Arts in Economics</em></span>
+      <span class="education-dates">Sept 2016 – May 2020</span>
     </div>
     <div class="education-info-row">
-      <span class="education-dates">Sept 2016 – May 2020</span><span class="education-sep"> · </span><span class="education-university"><strong>China Agricultural University</strong></span><span class="education-sep">, </span><span class="education-location">Beijing</span>
+      <span class="education-university"><strong>China Agricultural University</strong></span>
+      <span class="education-location">Beijing</span>
     </div>
   </div>
 </div>
