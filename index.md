@@ -22,7 +22,7 @@ Welcome! I am a third-year Ph.D. student in the Department of Agricultural and R
 
 My research interests lie in environmental economics, with a particular focus on the economics of water and forests. I also specialize in geospatial analysis and the application of geographic data to economic research.
 
-<p class="find-me">Find me at <a class="find-me-link" href="https://scholar.google.com/citations?user=WcxsVggAAAAJ&hl=en&oi=ao"><img src="/assets/icons8-google-scholar-50.png" class="inline-icon" width="20" height="20" alt="Google Scholar"> Google Scholar</a> &nbsp;·&nbsp; <a class="find-me-link" href="https://www.researchgate.net/profile/Kaichao-Chang"><img src="/assets/icons8-researchgate-64.png" class="inline-icon" alt="ResearchGate"> ResearchGate</a></p>
+<p class="find-me">Find me at <a class="find-me-link" href="https://scholar.google.com/citations?user=WcxsVggAAAAJ&hl=en&oi=ao"><img src="/assets/icons8-google-scholar-50.png" class="inline-icon" width="20" height="20" alt="Google Scholar"> Google Scholar</a> &nbsp;·&nbsp; <a class="find-me-link" href="https://www.researchgate.net/profile/Kaichao-Chang"><img src="/assets/icons8-researchgate-64.png" class="inline-icon" width="20" height="20" alt="ResearchGate"> ResearchGate</a></p>
 
 ### Research Interests
 
