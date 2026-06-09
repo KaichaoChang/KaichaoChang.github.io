@@ -162,10 +162,10 @@ My research interests lie in environmental economics, with a particular focus on
 {:#contact}
 
 <div class="contact-block">
-  <span class="contact-label">Email</span>
+  <span class="contact-label"><img src="/assets/icons8-email-50.png" class="inline-icon" width="20" height="20" alt="Email"> Email</span>
   <span class="contact-value"><a href="mailto:kc725@umd.edu">kc725@umd.edu</a></span>
-  <span class="contact-label">Phone</span>
+  <span class="contact-label"><img src="/assets/icons8-phone-64.png" class="inline-icon" width="20" height="20" alt="Phone"> Phone</span>
   <span class="contact-value">984-3779784</span>
-  <span class="contact-label">Location</span>
+  <span class="contact-label"><img src="/assets/icons8-location-50.png" class="inline-icon" width="20" height="20" alt="Location"> Location</span>
   <span class="contact-value">2200 Symons Hall, College Park, MD 20742</span>
 </div>
