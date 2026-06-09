@@ -12,8 +12,23 @@
         {% assign url = item.url | relative_url %}
       {% endif %}
 
-      <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
-        <a href="{{ url }}">{{ item.title }}</a>
+      <li class="item  item--nav{% if item.subitems %} item--has-dropdown{% endif %}{% if item.url == page.url %}  item--current{% endif %}">
+        <a href="{{ url }}">{{ item.title }}{% if item.subitems %} <span class="dropdown-arrow">▾</span>{% endif %}</a>
+        {% if item.subitems %}
+        <ul class="nav-dropdown">
+          {% for subitem in item.subitems %}
+            {% assign sub_first_char = subitem.url | slice: 0, 1 %}
+            {% if sub_first_char == '#' %}
+              {% assign suburl = subitem.url %}
+            {% elsif subitem.url contains '://' %}
+              {% assign suburl = subitem.url %}
+            {% else %}
+              {% assign suburl = subitem.url | relative_url %}
+            {% endif %}
+          <li><a href="{{ suburl }}">{{ subitem.title }}</a></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>

@@ -112,11 +112,20 @@ favicons:
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: "#home"
-- title: Publications
+  url: "/"
+- title: Research
   url: "#publications"
-- title: Program
-  url: "#projects"
+  subitems:
+  - title: Working Paper
+    url: "#working-paper"
+  - title: Publications
+    url: "#publications"
+  - title: Programs
+    url: "#projects"
+- title: Teaching
+  url: "#teaching"
+- title: Contact
+  url: "#contact"
 
 navigation_footer:
 - title: Kaichao Chang

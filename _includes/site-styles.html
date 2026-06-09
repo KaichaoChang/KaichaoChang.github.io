@@ -35,7 +35,7 @@
   }
 
   .header {
-    background: #e3eef7;
+    background: #cce5ff;
     padding-top: 3.5rem;
   }
 
@@ -60,7 +60,7 @@
     height: 3.5rem;
     transform: translateX(-50%);
     z-index: -1;
-    background: #e3eef7;
+    background: #cce5ff;
     box-shadow: 0 0.08rem 0.35rem rgba(0, 0, 0, 0.08);
   }
 
@@ -256,6 +256,71 @@
     .layout-page.kaichao-chang .feature {
       background-position: top center, center 65%;
     }
+  }
+
+  .item--has-dropdown {
+    position: relative;
+  }
+  .dropdown-arrow {
+    font-size: .75em;
+    margin-left: .15rem;
+    display: inline-block;
+  }
+  .nav-dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    list-style: none;
+    margin: 0;
+    padding: .3rem 0;
+    background: #cce5ff;
+    border: 1px solid rgba(0,0,0,0.12);
+    border-radius: 0 0 4px 4px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    z-index: 1001;
+    min-width: 10rem;
+  }
+  .nav-dropdown li {
+    display: block;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .nav-dropdown li a {
+    display: block;
+    padding: .4rem 1rem;
+    color: #000000 !important;
+    background-image: none !important;
+    text-decoration: none;
+    white-space: nowrap;
+    font-size: .85rem;
+  }
+  .nav-dropdown li a:hover {
+    background: rgba(0,0,0,0.08);
+  }
+  .item--has-dropdown:hover .nav-dropdown {
+    display: block;
+  }
+
+  .contact-block {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: .4rem 1.2rem;
+    margin-top: .5rem;
+    max-width: 32rem;
+  }
+  .contact-label {
+    font-weight: 600;
+    color: #444444;
+    white-space: nowrap;
+  }
+  .contact-value {
+    color: #000000;
+  }
+  .contact-value a {
+    color: #000000 !important;
+    background-image: none !important;
   }
 
   @media screen and (max-width: 40em) {

@@ -111,6 +111,7 @@ My research interests lie in environmental economics, with a particular focus on
 </div>
 
 ## Working Paper
+{:#working-paper}
 
 <div class="publication-item">
   <div class="publication-title">Land Use Effects of Rural-to-Urban Migration Policy: Evidence from China's 2014 Hukou Reform</div>
@@ -122,6 +123,7 @@ My research interests lie in environmental economics, with a particular focus on
 </div>
 
 ## Teaching Experience
+{:#teaching}
 
 <div class="publication-item">
   <div class="publication-title">AREC 455: Economics of Land Use</div>
@@ -154,4 +156,16 @@ My research interests lie in environmental economics, with a particular focus on
   <a class="publication-title" href="https://experience.arcgis.com/experience/fdf001fd55c9450da7b61f3314adaf9c">Targeting Lawn Fertilizer Reduction Programs</a>
   <div class="publication-subtitle">Using social science &amp; geospatial analysis to reduce N loads from home lawns to Long Island Sound</div>
   <div class="publication-authors">D. Dickson, Q. LeiParent, J. Vaudrey, R. Johnston, D. Newburn, H. Wang, T. Ndebele, <strong>K. Chang</strong>, D. Wietelman</div>
+</div>
+
+## Contact
+{:#contact}
+
+<div class="contact-block">
+  <span class="contact-label">Email</span>
+  <span class="contact-value"><a href="mailto:kc725@umd.edu">kc725@umd.edu</a></span>
+  <span class="contact-label">Phone</span>
+  <span class="contact-value">984-3779784</span>
+  <span class="contact-label">Location</span>
+  <span class="contact-value">2200 Symons Hall, College Park, MD 20742</span>
 </div>
