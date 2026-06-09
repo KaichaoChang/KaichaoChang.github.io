@@ -22,7 +22,7 @@ Welcome! I am a third-year Ph.D. student in the Department of Agricultural and R
 
 My research interests lie in environmental economics, with a particular focus on the economics of water and forests. I also specialize in geospatial analysis and the application of geographic data to economic research.
 
-<p class="find-me">Find me at <a class="find-me-link" href="https://scholar.google.com/citations?user=WcxsVggAAAAJ&hl=en&oi=ao">{% include icon.html id="google-scholar" title="Google Scholar" %} Google Scholar</a> &nbsp;·&nbsp; <a class="find-me-link" href="https://www.researchgate.net/profile/Kaichao-Chang">{% include icon.html id="researchgate" title="ResearchGate" %} ResearchGate</a></p>
+<p class="find-me">Find me at <a class="find-me-link" href="https://scholar.google.com/citations?user=WcxsVggAAAAJ&hl=en&oi=ao"><img src="/assets/icons8-google-scholar-50.png" class="inline-icon" alt="Google Scholar"> Google Scholar</a> &nbsp;·&nbsp; <a class="find-me-link" href="https://www.researchgate.net/profile/Kaichao-Chang"><img src="/assets/icons8-researchgate-32.png" class="inline-icon" alt="ResearchGate"> ResearchGate</a></p>
 
 ### Research Interests
 
@@ -36,43 +36,48 @@ My research interests lie in environmental economics, with a particular focus on
 
 <div class="education-list">
   <div class="education-item">
-    <div class="education-row">
-      <span class="education-degree">{% include icon.html id="graduation-cap" title="Education" %} <em>Ph.D. in Agricultural and Resource Economics</em></span>
+    <div class="education-degree-row">
+      <span class="education-degree"><img src="/assets/icons8-google-scholar-50.png" class="inline-icon" alt="Education"> <em>Ph.D. in Agricultural and Resource Economics</em></span>
+    </div>
+    <div class="education-info-row">
       <span class="education-dates">Sept 2026 –</span>
-    </div>
-    <div class="education-row">
-      <span class="education-school">University of Maryland</span>
-      <span class="education-location">College Park, MD</span>
+      <span class="education-place"><strong>University of Maryland</strong> · College Park, MD</span>
     </div>
   </div>
   <div class="education-item">
-    <div class="education-row">
-      <span class="education-degree">{% include icon.html id="graduation-cap" title="Education" %} <em>Master of Science in Economics &amp; Computation</em></span>
+    <div class="education-degree-row">
+      <span class="education-degree"><img src="/assets/icons8-google-scholar-50.png" class="inline-icon" alt="Education"> <em>Master of Science in Economics &amp; Computation</em></span>
+    </div>
+    <div class="education-info-row">
       <span class="education-dates">Sept 2020 – May 2022</span>
-    </div>
-    <div class="education-row">
-      <span class="education-school">Duke University</span>
-      <span class="education-location">Durham, NC</span>
+      <span class="education-place"><strong>Duke University</strong> · Durham, NC</span>
     </div>
   </div>
   <div class="education-item">
-    <div class="education-row">
-      <span class="education-degree">{% include icon.html id="graduation-cap" title="Education" %} <em>Bachelor of Arts in Economics &amp; Bachelor of Science in Mathematics</em></span>
-      <span class="education-dates">Sept 2016 – May 2020</span>
+    <div class="education-degree-row">
+      <span class="education-degree"><img src="/assets/icons8-google-scholar-50.png" class="inline-icon" alt="Education"> <em>Bachelor of Arts in Economics</em></span>
     </div>
-    <div class="education-row">
-      <span class="education-school">University of Colorado</span>
-      <span class="education-location">Denver, CO</span>
+    <div class="education-info-row">
+      <span class="education-dates">Sept 2016 – May 2020</span>
+      <span class="education-place"><strong>University of Colorado</strong> · Denver, CO</span>
     </div>
   </div>
   <div class="education-item">
-    <div class="education-row">
-      <span class="education-degree">{% include icon.html id="graduation-cap" title="Education" %} <em>Bachelor of Arts in Economics</em></span>
-      <span class="education-dates">Sept 2016 – May 2020</span>
+    <div class="education-degree-row">
+      <span class="education-degree"><img src="/assets/icons8-google-scholar-50.png" class="inline-icon" alt="Education"> <em>Bachelor of Science in Mathematics</em></span>
     </div>
-    <div class="education-row">
-      <span class="education-school">China Agricultural University</span>
-      <span class="education-location">Beijing, China</span>
+    <div class="education-info-row">
+      <span class="education-dates">Sept 2016 – May 2020</span>
+      <span class="education-place"><strong>University of Colorado</strong> · Denver, CO</span>
+    </div>
+  </div>
+  <div class="education-item">
+    <div class="education-degree-row">
+      <span class="education-degree"><img src="/assets/icons8-google-scholar-50.png" class="inline-icon" alt="Education"> <em>Bachelor of Arts in Economics</em></span>
+    </div>
+    <div class="education-info-row">
+      <span class="education-dates">Sept 2016 – May 2020</span>
+      <span class="education-place"><strong>China Agricultural University</strong> · Beijing, China</span>
     </div>
   </div>
 </div>
