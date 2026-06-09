@@ -13,7 +13,7 @@
       {% endif %}
 
       <li class="item  item--nav{% if item.subitems %} item--has-dropdown{% endif %}{% if item.url == page.url %}  item--current{% endif %}">
-        <a href="{{ url }}">{{ item.title }}{% if item.subitems %} <span class="dropdown-arrow">▾</span>{% endif %}</a>
+        <a href="{{ url }}">{{ item.title }}</a>
         {% if item.subitems %}
         <ul class="nav-dropdown">
           {% for subitem in item.subitems %}
