@@ -42,7 +42,7 @@ My research interests lie in environmental economics, with a particular focus on
     </div>
     <div class="education-info-row">
       <span class="education-university"><strong>University of Maryland</strong></span>
-      <span class="education-location">College Park, MD</span>
+      <span class="education-location">College Park</span>
     </div>
   </div>
   <div class="education-item">
@@ -52,7 +52,7 @@ My research interests lie in environmental economics, with a particular focus on
     </div>
     <div class="education-info-row">
       <span class="education-university"><strong>Duke University</strong></span>
-      <span class="education-location">Durham, NC</span>
+      <span class="education-location">Durham</span>
     </div>
   </div>
   <div class="education-item">
@@ -62,7 +62,7 @@ My research interests lie in environmental economics, with a particular focus on
     </div>
     <div class="education-info-row">
       <span class="education-university"><strong>University of Colorado</strong></span>
-      <span class="education-location">Denver, CO</span>
+      <span class="education-location">Denver</span>
     </div>
   </div>
   <div class="education-item">
@@ -72,7 +72,7 @@ My research interests lie in environmental economics, with a particular focus on
     </div>
     <div class="education-info-row">
       <span class="education-university"><strong>University of Colorado</strong></span>
-      <span class="education-location">Denver, CO</span>
+      <span class="education-location">Denver</span>
     </div>
   </div>
   <div class="education-item">
@@ -82,7 +82,7 @@ My research interests lie in environmental economics, with a particular focus on
     </div>
     <div class="education-info-row">
       <span class="education-university"><strong>China Agricultural University</strong></span>
-      <span class="education-location">Beijing, China</span>
+      <span class="education-location">Beijing</span>
     </div>
   </div>
 </div>
