@@ -36,19 +36,20 @@ body,
   background: #E1F5FE;
 }
 
-// Consistent spacing: sections > subsections > paragraphs
+// Spacing only before elements, not after
 .typeset h2 {
   padding-top: 2rem !important;
-  margin-bottom: .5rem !important;
+  margin-bottom: 0 !important;
 }
 
 .typeset h3 {
   padding-top: 1.4rem !important;
-  margin-bottom: .3rem !important;
+  margin-bottom: 0 !important;
 }
 
 .typeset p {
-  margin-bottom: .7rem !important;
+  margin-top: .7rem !important;
+  margin-bottom: 0 !important;
 }
 
 .typeset p a,
@@ -114,9 +115,10 @@ body,
 }
 
 .education-item {
-  margin-bottom: 1.8rem;
-  &:last-child {
-    margin-bottom: 0;
+  margin-top: 1.8rem;
+  margin-bottom: 0;
+  &:first-child {
+    margin-top: 0;
   }
 }
 
