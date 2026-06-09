@@ -114,11 +114,20 @@ My research interests lie in environmental economics, with a particular focus on
 {:#working-paper}
 
 <div class="publication-item">
-  <a class="publication-title" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=WcxsVggAAAAJ&citation_for_view=WcxsVggAAAAJ:d1gkVwhDpl0C">Land Use Effects of Rural-to-Urban Migration Policy: Evidence from China's 2014 Hukou Reform</a>
+  <div class="publication-title">Land Use Effects of Rural-to-Urban Migration Policy: Evidence from China's 2014 Hukou Reform</div>
   <div class="publication-authors"><strong>Chang, K.</strong></div>
   <details class="abstract-dropdown">
     <summary>Abstract</summary>
     <p class="abstract-text">In 2014, to coordinate the development of urban and rural areas, the Chinese government implemented the Hukou Reform, whereby most cities were required to relax urban residence registration policies to varying degrees. These migration policy reforms have indirect effects on land allocation in rural areas. With no existing literature focusing on the effects of Hukou reform on rural areas, this paper estimates its rural land use effects on cropland and forest using a remote sensing dataset—Land Use and Land Cover Change from Global Land Analysis &amp; Discovery (GLAD). Since China's 2014 Hukou Reform categorizes all cities into different groups based on their urban population, this paper utilizes the variation in city-level Hukou policy changes and employs a donut regression discontinuity design and two-way fixed effects designs to estimate its effects at both pixel and county levels. The results show that although at the county level, Hukou policy changes do not impact the net rural land distribution of cropland and forest, the pixel-level analysis indicates that regions with faster urban expansion caused by the Hukou reform have higher probabilities of experiencing both cropland-to-forest conversion and forest-to-cropland conversion simultaneously. In this sense, these bidirectional land use transitions due to the Hukou reform at the pixel level cancel each other out. When combined with the results on the effect of natural land conditions on land conversions, these findings suggest that regions with more bidirectional land use transitions between forest and cropland may obtain greater environmental benefits at the cost of reduced agricultural productivity.</p>
+  </details>
+</div>
+
+<div class="publication-item">
+  <a class="publication-title" href="https://www.researchsquare.com/article/rs-6820410/v1">Protected areas can provide net benefits without reducing the loss of ecosystem area</a>
+  <div class="publication-authors">He, W., Murray, B., <strong>Chang, K.</strong>, Erdman, K., Giri, C., Huang, R., Silliman, B., Vanko, A., & Vincent, J.</div>
+  <details class="abstract-dropdown">
+    <summary>Abstract</summary>
+    <p class="abstract-text">Evaluations of protected areas (PAs) commonly measure PA effectiveness by the avoided loss of ecosystem area, with many reporting a lack of effectiveness according to this measure. Here, we present evidence that avoided area loss can be a misleading measure of PA effectiveness, because it does not account for spatial variation in conservation benefits and costs. We evaluate PAs in India's coastal mangrove forests against both an avoided deforestation measure and alternative measures that account for spatially varying carbon stocks and agricultural land values. We find that the PA system did not significantly reduce overall deforestation during 1990–2015, yet it provided significant net climate benefits because carbon stocks were greater in areas where forest cover increased than in areas where it decreased. This favorable climate impact depends, however, on the carbon price used in the evaluation being sufficiently high to offset protection's opportunity cost. Our findings imply that PA evaluations should shift toward using more complete measures of effectiveness than avoided area loss.</p>
   </details>
 </div>
 
