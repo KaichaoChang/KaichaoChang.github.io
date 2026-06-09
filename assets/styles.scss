@@ -36,20 +36,22 @@ body,
   background: #E1F5FE;
 }
 
-// Spacing only before elements, not after
+// Spacing only after elements, not before
 .typeset h2 {
-  padding-top: 2rem !important;
-  margin-bottom: 0 !important;
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 2rem !important;
 }
 
 .typeset h3 {
-  padding-top: 1.4rem !important;
-  margin-bottom: 0 !important;
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 1.4rem !important;
 }
 
 .typeset p {
-  margin-top: .7rem !important;
-  margin-bottom: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: .7rem !important;
 }
 
 .typeset p a,
@@ -115,10 +117,10 @@ body,
 }
 
 .education-item {
-  margin-top: 1.8rem;
-  margin-bottom: 0;
-  &:first-child {
-    margin-top: 0;
+  margin-top: 0;
+  margin-bottom: 1.8rem;
+  &:last-child {
+    margin-bottom: 0;
   }
 }
 
