@@ -69,6 +69,17 @@ body,
   margin-left: .1rem;
 }
 
+// Profile subtitle (under main title in hero)
+.profile-subtitle {
+  margin-top: .2rem;
+  font-size: 1rem;
+  a {
+    color: inherit;
+    text-decoration: underline;
+    background-image: none;
+  }
+}
+
 // Education list
 .education-list {
   margin: .8rem 0 1.6rem;
@@ -82,7 +93,13 @@ body,
   }
 }
 
-.education-header {
+.education-degree-line {
+  font-size: .95rem;
+  color: #000000;
+  margin-bottom: .15rem;
+}
+
+.education-info-line {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
@@ -90,25 +107,6 @@ body,
 
 .education-school {
   font-weight: 700;
-  font-size: 1rem;
-  color: #000000;
-}
-
-.education-location {
-  font-size: .9rem;
-  color: #000000;
-  white-space: nowrap;
-  margin-left: 1rem;
-}
-
-.education-details {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  margin-top: .1rem;
-}
-
-.education-degree {
   font-size: .9rem;
   color: #000000;
 }
@@ -118,4 +116,27 @@ body,
   color: #444444;
   white-space: nowrap;
   margin-left: 1rem;
+}
+
+// Abstract dropdown
+.abstract-dropdown {
+  margin-top: .5rem;
+  summary {
+    cursor: pointer;
+    font-size: .85rem;
+    color: #444444;
+    display: inline-block;
+    &:hover {
+      color: #000000;
+    }
+  }
+}
+
+.abstract-text {
+  margin-top: .4rem;
+  font-size: .85rem;
+  color: #333333;
+  line-height: 1.6;
+  border-left: 2px solid #e0e0e0;
+  padding-left: .8rem;
 }

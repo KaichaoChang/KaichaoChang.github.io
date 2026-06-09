@@ -8,7 +8,8 @@ feature_text: |
     </div>
     <div class="profile-copy">
       <h1>Kaichao Chang</h1>
-      <p class="profile-title">PhD at University of Maryland</p>
+      <p class="profile-title">Ph.D. Student in Agricultural and Resource Economics</p>
+      <p class="profile-subtitle"><a href="https://arec.umd.edu/">University of Maryland</a></p>
     </div>
   </div>
 feature_image: "/assets/background-flipped.jpg?v=20260608-flipped"
@@ -35,43 +36,31 @@ My research interests lie in environmental economics, with a particular focus on
 
 <div class="education-list">
   <div class="education-item">
-    <div class="education-header">
-      <span class="education-school">University of Maryland</span>
-      <span class="education-location">College Park</span>
-    </div>
-    <div class="education-details">
-      <span class="education-degree"><em>Ph.D. in Agricultural and Resource Economics</em></span>
-      <span class="education-dates">Current</span>
+    <div class="education-degree-line"><em>Ph.D. in Agricultural and Resource Economics</em></div>
+    <div class="education-info-line">
+      <span class="education-school">University of Maryland, College Park</span>
+      <span class="education-dates">Sept 2026 –</span>
     </div>
   </div>
   <div class="education-item">
-    <div class="education-header">
-      <span class="education-school">Duke University</span>
-      <span class="education-location">Durham</span>
-    </div>
-    <div class="education-details">
-      <span class="education-degree"><em>Master of Science in Economics &amp; Computation</em></span>
-      <span class="education-dates">Sep 2020 – May 2022</span>
+    <div class="education-degree-line"><em>Master of Science in Economics &amp; Computation</em></div>
+    <div class="education-info-line">
+      <span class="education-school">Duke University, Durham</span>
+      <span class="education-dates">Sept 2020 – May 2022</span>
     </div>
   </div>
   <div class="education-item">
-    <div class="education-header">
+    <div class="education-degree-line"><em>Bachelor of Arts in Economics &amp; Bachelor of Science in Mathematics</em></div>
+    <div class="education-info-line">
       <span class="education-school">University of Colorado, Denver</span>
-      <span class="education-location">Denver</span>
-    </div>
-    <div class="education-details">
-      <span class="education-degree"><em>Bachelor of Arts in Economics &amp; Bachelor of Science in Mathematics</em></span>
-      <span class="education-dates">Sep 2016 – May 2020</span>
+      <span class="education-dates">Sept 2016 – May 2020</span>
     </div>
   </div>
   <div class="education-item">
-    <div class="education-header">
-      <span class="education-school">China Agricultural University</span>
-      <span class="education-location">Beijing</span>
-    </div>
-    <div class="education-details">
-      <span class="education-degree"><em>Bachelor of Arts in Economics</em></span>
-      <span class="education-dates">Sep 2016 – May 2020</span>
+    <div class="education-degree-line"><em>Bachelor of Arts in Economics</em></div>
+    <div class="education-info-line">
+      <span class="education-school">China Agricultural University, Beijing</span>
+      <span class="education-dates">Sept 2016 – May 2020</span>
     </div>
   </div>
 </div>
@@ -83,12 +72,20 @@ My research interests lie in environmental economics, with a particular focus on
   <a class="publication-title" href="https://www.sciencedirect.com/science/article/pii/S030147972503631X">High-resolution spatial modeling of household lawn fertilizer behavior: Implications for targeting nitrogen-reduction programs</a>
   <div class="publication-authors">Newburn, D. A., Wang, H., Johnston, R. J., <strong>Chang, K.</strong>, & Ndebele, T.</div>
   <div class="publication-venue"><em>Journal of Environmental Management</em>, 395, 127655. Academic Press, 2025.</div>
+  <details class="abstract-dropdown">
+    <summary>Abstract</summary>
+    <p class="abstract-text">Residential lawns cover a substantial area within urbanized regions and household fertilizer applications represent a major nonpoint source of nitrogen pollution. We develop a methodology using a two-part hurdle regression model to predict lawn fertilizer behavior across 431,349 single-family households in Connecticut's coastal counties. [Please fill in the full abstract — the paper is behind a paywall and the full text could not be retrieved automatically.]</p>
+  </details>
 </div>
 
 <div class="publication-item">
   <a class="publication-title" href="https://www.forest-journal.com/index.php/JFBR/article/view/private-investment-forest-reforestation">Assessing conditions to scale up private investment in forest restoration</a>
   <div class="publication-authors">Vincent, J., Aga, Y., Boscolo, M., <strong>Chang, K.</strong>, Cheng, Z., Dilger, J., Guerrero Machado, D., Herrera, D., Kaczan, D., McMahon, A., Rambaud, P., Spirovska Kono, M., Tenneson, K., Van Rijn, M., Walji, K., Yi, Y., & Finegold, Y.</div>
   <div class="publication-venue"><em>Journal of Forest Business Research</em>, 4(1), 37–72. 2025.</div>
+  <details class="abstract-dropdown">
+    <summary>Abstract</summary>
+    <p class="abstract-text">Forest restoration in low- and middle-income countries (LMICs) requires private investment. We estimated the area of degraded forestland with favorable investment conditions for private forest restoration in 115 LMICs under two scenarios: a base scenario driven by wood markets and a natural climate solutions (NCS) scenario driven by carbon markets. Barely half of the restorable area in the base scenario, and barely a third in the NCS scenario, has at least four favorable investment conditions; less than 1% of restorable land meets all favorable conditions in either scenario. Locations with superior conditions tend to generate greater local livelihood benefits relative to global carbon or biodiversity benefits. Of the 59 LMICs that have made national commitments to restore forestland under the Bonn Challenge, more than half have pledged to restore more area than our estimates suggest has at least four favorable investment conditions. Achieving restoration targets requires coordinated public-sector investments and policy interventions to improve investment conditions and ensure restoration generates both local and global environmental benefits.</p>
+  </details>
 </div>
 
 ## Working Paper
