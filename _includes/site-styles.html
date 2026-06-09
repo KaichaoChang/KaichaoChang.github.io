@@ -179,6 +179,36 @@
     background-image: none;
   }
 
+  .abstract-dropdown summary {
+    cursor: pointer;
+    font-size: .8rem;
+    font-weight: 600;
+    color: #444444;
+    display: inline-flex;
+    align-items: center;
+    gap: .35rem;
+    padding: .25rem .75rem;
+    background: #f0f0f0;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+    list-style: none;
+    user-select: none;
+    letter-spacing: .02em;
+  }
+  .abstract-dropdown summary::after { content: ' ▾'; font-size: .75rem; color: #888; }
+  .abstract-dropdown summary::-webkit-details-marker { display: none; }
+  .abstract-dropdown summary:hover {
+    color: #111111;
+    border-color: #999999;
+    background: #e4e4e4;
+  }
+  .abstract-dropdown[open] summary {
+    color: #111111;
+    border-color: #999999;
+    background: #e4e4e4;
+  }
+  .abstract-dropdown[open] summary::after { content: ' ▴'; }
+
   .typeset .publication-authors,
   .typeset .publication-venue,
   .typeset .publication-placeholder {
