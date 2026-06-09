@@ -112,6 +112,14 @@ My research interests lie in environmental economics, with a particular focus on
 
 ## Working Paper
 
+<div class="publication-item">
+  <div class="publication-title">Land Use Effects of Rural-to-Urban Migration Policy: Evidence from China's 2014 Hukou Reform</div>
+  <div class="publication-authors"><strong>Chang, K.</strong></div>
+  <details class="abstract-dropdown">
+    <summary>Abstract</summary>
+    <p class="abstract-text">In 2014, to coordinate the development of urban and rural areas, the Chinese government implemented the Hukou Reform, whereby most cities were required to relax urban residence registration policies to varying degrees. These migration policy reforms have indirect effects on land allocation in rural areas. With no existing literature focusing on the effects of Hukou reform on rural areas, this paper estimates its rural land use effects on cropland and forest using a remote sensing dataset—Land Use and Land Cover Change from Global Land Analysis &amp; Discovery (GLAD). Since China's 2014 Hukou Reform categorizes all cities into different groups based on their urban population, this paper utilizes the variation in city-level Hukou policy changes and employs a donut regression discontinuity design and two-way fixed effects designs to estimate its effects at both pixel and county levels. The results show that although at the county level, Hukou policy changes do not impact the net rural land distribution of cropland and forest, the pixel-level analysis indicates that regions with faster urban expansion caused by the Hukou reform have higher probabilities of experiencing both cropland-to-forest conversion and forest-to-cropland conversion simultaneously. In this sense, these bidirectional land use transitions due to the Hukou reform at the pixel level cancel each other out. When combined with the results on the effect of natural land conditions on land conversions, these findings suggest that regions with more bidirectional land use transitions between forest and cropland may obtain greater environmental benefits at the cost of reduced agricultural productivity.</p>
+  </details>
+</div>
 
 ## Teaching Experience
 
