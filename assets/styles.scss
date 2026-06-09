@@ -172,31 +172,33 @@ a.publication-title {
   margin-top: .6rem;
   summary {
     cursor: pointer;
-    font-size: .82rem;
-    font-weight: 500;
-    color: #555555;
+    font-size: .8rem;
+    font-weight: 600;
+    color: #444444;
     display: inline-flex;
     align-items: center;
-    gap: .3rem;
-    padding: .2rem .65rem;
-    border: 1px solid #bbbbbb;
-    border-radius: .25rem;
+    gap: .35rem;
+    padding: .25rem .75rem;
+    background: #f0f0f0;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
     list-style: none;
     user-select: none;
+    letter-spacing: .02em;
     transition: background .15s, color .15s, border-color .15s;
     &::-webkit-details-marker { display: none; }
-    &::before { content: '▸'; font-size: .7rem; }
+    &::after { content: '▾'; font-size: .75rem; color: #888; }
     &:hover {
-      color: #000000;
-      border-color: #666666;
-      background: #f5f5f5;
+      color: #111111;
+      border-color: #999999;
+      background: #e4e4e4;
     }
   }
   &[open] summary {
-    color: #000000;
-    border-color: #666666;
-    background: #f5f5f5;
-    &::before { content: '▾'; }
+    color: #111111;
+    border-color: #999999;
+    background: #e4e4e4;
+    &::after { content: '▴'; }
   }
 }
 
