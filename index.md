@@ -114,7 +114,7 @@ My research interests lie in environmental economics, with a particular focus on
 {:#working-paper}
 
 <div class="publication-item">
-  <div class="publication-title">Land Use Effects of Rural-to-Urban Migration Policy: Evidence from China's 2014 Hukou Reform</div>
+  <a class="publication-title" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=WcxsVggAAAAJ&citation_for_view=WcxsVggAAAAJ:d1gkVwhDpl0C">Land Use Effects of Rural-to-Urban Migration Policy: Evidence from China's 2014 Hukou Reform</a>
   <div class="publication-authors"><strong>Chang, K.</strong></div>
   <details class="abstract-dropdown">
     <summary>Abstract</summary>
