@@ -110,6 +110,12 @@ My research interests lie in environmental economics, with a particular focus on
   </details>
 </div>
 
+<div class="publication-item">
+  <div class="publication-title">Differential Livelihood Impacts of Eucalypt and Pine Plantations on State-Owned Land</div>
+  <div class="publication-authors">Byakagaba, P., Kabutey-Ongor, M., Babyenda, P., Bbaale, E., <strong>Chang, K.</strong>, Vincent, J., & Mullan, K.</div>
+  <div class="publication-venue">Accepted, <em>Journal of Forest Economics</em>.</div>
+</div>
+
 ## Working Paper
 {:#working-paper}
 
