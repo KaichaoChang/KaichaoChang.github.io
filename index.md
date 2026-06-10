@@ -131,6 +131,16 @@ My research interests lie in environmental economics, with a particular focus on
   </details>
 </div>
 
+<div class="publication-item">
+  <a class="publication-title" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531716">The Fates of Soviet Secret Cities</a>
+  <div class="publication-authors"><strong>Chang, K.</strong>, & Becker, C.</div>
+  <div class="publication-venue"><em>Available at SSRN 4531716</em>. 2023.</div>
+  <details class="abstract-dropdown">
+    <summary>Abstract</summary>
+    <p class="abstract-text">During the Soviet era, closed cities were off-limits to foreigners and unauthorized citizens. After the dissolution, many closed cities opened or were abandoned, but some Russian "ZATOs" (Закрытое административно-территориальное образование) kept their closed status. We investigate differential development patterns of closed and "open" cities. Absent city-level economic information, we employ satellite nighttime light data to infer economic activity. Some ZATOs have thrived in the post-Soviet environment, attributable mainly to substantial human capital and Russian government support. Ukrainian counterparts have been more likely to decline, both because of an absence of government support and being cut off from Russia's military-industrial complex.</p>
+  </details>
+</div>
+
 ## Program
 {:#projects}
 
