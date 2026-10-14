@@ -38,21 +38,21 @@ My research interests lie in environmental economics, with a particular focus on
   <div class="education-item">
     <div class="education-degree-row" style="display:flex;justify-content:space-between;align-items:baseline;">
       <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Ph.D. in Agricultural and Resource Economics</em></span>
-      <span class="education-dates">Sept 2026 –</span>
+      <span class="education-dates">Sept 2023 –</span>
     </div>
     <div class="education-info-row" style="display:flex;justify-content:space-between;align-items:baseline;">
       <span class="education-university"><strong>University of Maryland</strong></span>
-      <span class="education-location">College Park</span>
+      <span class="education-location">College Park, MD</span>
     </div>
   </div>
   <div class="education-item">
     <div class="education-degree-row" style="display:flex;justify-content:space-between;align-items:baseline;">
       <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Master of Science in Economics &amp; Computation</em></span>
-      <span class="education-dates">Sept 2020 – May 2022</span>
+      <span class="education-dates">Sept 2020 – Dec 2022</span>
     </div>
     <div class="education-info-row" style="display:flex;justify-content:space-between;align-items:baseline;">
       <span class="education-university"><strong>Duke University</strong></span>
-      <span class="education-location">Durham</span>
+      <span class="education-location">Durham, NC</span>
     </div>
   </div>
   <div class="education-item">
@@ -62,7 +62,7 @@ My research interests lie in environmental economics, with a particular focus on
     </div>
     <div class="education-info-row" style="display:flex;justify-content:space-between;align-items:baseline;">
       <span class="education-university"><strong>University of Colorado</strong></span>
-      <span class="education-location">Denver</span>
+      <span class="education-location">Denver, CO</span>
     </div>
   </div>
   <div class="education-item">
@@ -72,7 +72,7 @@ My research interests lie in environmental economics, with a particular focus on
     </div>
     <div class="education-info-row" style="display:flex;justify-content:space-between;align-items:baseline;">
       <span class="education-university"><strong>University of Colorado</strong></span>
-      <span class="education-location">Denver</span>
+      <span class="education-location">Denver, CO</span>
     </div>
   </div>
   <div class="education-item">
@@ -111,9 +111,13 @@ My research interests lie in environmental economics, with a particular focus on
 </div>
 
 <div class="publication-item">
-  <div class="publication-title">Differential Livelihood Impacts of Eucalypt and Pine Plantations on State-Owned Land</div>
-  <div class="publication-authors">Byakagaba, P., Kabutey-Ongor, M., Babyenda, P., Bbaale, E., <strong>Chang, K.</strong>, Vincent, J., & Mullan, K.</div>
-  <div class="publication-venue">Accepted, <em>Journal of Forest Economics</em>.</div>
+  <a class="publication-title" href="https://www.emerald.com/jfe/article-abstract/41/3/303/1389348/Differential-livelihood-impacts-of-eucalypt-and">Differential livelihood impacts of eucalypt and pine plantations on state-owned land</a>
+  <div class="publication-authors">Byakagaba, P., Kabutey-Ongor, M., Babyenda, P., Bbaale, E., <strong>Chang, K.</strong>, Vincent, J. R., & Mullan, K.</div>
+  <div class="publication-venue"><em>Journal of Forest Economics</em>, 41(3), 303–328. Emerald Publishing Limited, 2026.</div>
+  <details class="abstract-dropdown">
+    <summary>Abstract</summary>
+    <p class="abstract-text">Rigorous evaluations of the socioeconomic impacts of plantation forests on adjacent rural communities are rare. This study investigates whether plantation forests’ impacts on the livelihoods of nearby households depend on the timber species grown and harvested in the plantations. Using a quasi-experimental design and survey data from 811 households near state-owned forest reserves in Uganda, this study compares the impacts of eucalypt plantations (“treated” sites in this analysis) to pine plantations (“untreated” sites) for five household-level outcomes: a multidimensional poverty index, cow ownership, firewood collection, forest clearing and tree planting. This study finds that households near eucalypt plantations own significantly more cows, with weaker evidence that they are more likely to plant trees. The effects of species on multidimensional poverty, firewood collection and forest clearing are all insignificant …</p>
+  </details>
 </div>
 
 ## Working Paper
@@ -180,7 +184,7 @@ My research interests lie in environmental economics, with a particular focus on
 <div class="publication-item">
   <div class="publication-title">Economics 627/407: Soviet & Post-Soviet Economic History</div>
   <div class="publication-authors">Teaching Assistant to Dr. Charles Becker</div>
-  <div class="publication-venue">Duke University, Fall 2021</div>
+  <div class="publication-venue">Duke University, Fall 2021, Fall 2022</div>
 </div>
 
 ## Contact

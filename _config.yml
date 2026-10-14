@@ -125,6 +125,8 @@ navigation_header:
     url: "#projects"
 - title: Teaching
   url: "#teaching"
+- title: CV
+  url: "/assets/Kaichao_Chang_CV.pdf"
 - title: Contact
   url: "#contact"
 
