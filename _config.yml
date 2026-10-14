@@ -12,8 +12,7 @@
 # 1. Files excluded from Jekyll builds
 exclude:
 - README.md
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
+- TEMPLATE.md
 - screenshot.png
 - LICENSE
 - CNAME

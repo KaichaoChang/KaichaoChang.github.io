@@ -4,7 +4,7 @@ hide_title: true
 feature_text: |
   <div class="profile-hero" id="home">
     <div class="profile-photo-frame">
-      <img class="profile-photo" src="/assets/avaster.png" alt="Kaichao Chang">
+      <img class="profile-photo" src="/assets/profile.jpg" alt="Kaichao Chang">
     </div>
     <div class="profile-copy">
       <h1>Kaichao Chang</h1>
