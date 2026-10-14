@@ -13,7 +13,7 @@ feature_text: |
     </div>
   </div>
 feature_image: "/assets/background-flipped.jpg"
-excerpt: "Personal website for Kaichao Chang."
+excerpt: "Kaichao Chang, Ph.D. student in Agricultural and Resource Economics (AREC) at the University of Maryland (UMD)"
 ---
 
 ## About Me
