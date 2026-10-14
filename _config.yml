@@ -93,6 +93,8 @@ lang: en-US # Set the site language
 title: "Kaichao Chang" # Site name or title, also used in jekyll-seo-tag
 logo: # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
+webmaster_verifications:
+  google: "tHlBkcWei81dOaVcTkmRDO7LXHa6fXZBPwRV5p5DORk"
 url: "https://KaichaoChang.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/KaichaoChang/KaichaoChang.github.io"
