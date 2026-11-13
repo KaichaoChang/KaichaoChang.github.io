@@ -18,7 +18,7 @@ excerpt: "Kaichao Chang, Ph.D. student in Agricultural and Resource Economics (A
 
 ## About Me
 
-Welcome! I am a third-year Ph.D. student in the Department of Agricultural and Resource Economics at the University of Maryland.
+Welcome! I am a fourth-year Ph.D. student in the Department of Agricultural and Resource Economics at the University of Maryland.
 
 My research interests lie in environmental economics, with a particular focus on the economics of water and forests. I also specialize in geospatial analysis and the application of geographic data to economic research.
 
@@ -57,17 +57,7 @@ My research interests lie in environmental economics, with a particular focus on
   </div>
   <div class="education-item">
     <div class="education-degree-row" style="display:flex;justify-content:space-between;align-items:baseline;">
-      <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Bachelor of Arts in Economics</em></span>
-      <span class="education-dates">Sept 2016 – May 2020</span>
-    </div>
-    <div class="education-info-row" style="display:flex;justify-content:space-between;align-items:baseline;">
-      <span class="education-university"><strong>University of Colorado</strong></span>
-      <span class="education-location">Denver, CO</span>
-    </div>
-  </div>
-  <div class="education-item">
-    <div class="education-degree-row" style="display:flex;justify-content:space-between;align-items:baseline;">
-      <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Bachelor of Science in Mathematics</em></span>
+      <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Bachelor of Arts in Economics &amp; Bachelor of Science in Mathematics</em></span>
       <span class="education-dates">Sept 2016 – May 2020</span>
     </div>
     <div class="education-info-row" style="display:flex;justify-content:space-between;align-items:baseline;">

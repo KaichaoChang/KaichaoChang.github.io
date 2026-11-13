@@ -2,7 +2,7 @@
 
 **🌐 Website: [https://kaichaochang.github.io](https://kaichaochang.github.io)**
 
-Welcome! I am a third-year Ph.D. student in the Department of Agricultural and Resource Economics at the University of Maryland.
+Welcome! I am a fourth-year Ph.D. student in the Department of Agricultural and Resource Economics at the University of Maryland.
 
 My research interests lie in environmental economics, with a particular focus on the economics of water and forests. I also specialize in geospatial analysis and the application of geographic data to economic research.
 
