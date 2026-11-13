@@ -57,7 +57,7 @@ My research interests lie in environmental economics, with a particular focus on
   </div>
   <div class="education-item">
     <div class="education-degree-row" style="display:flex;justify-content:space-between;align-items:baseline;">
-      <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Bachelor of Arts in Economics &amp; Bachelor of Science in Mathematics</em></span>
+      <span class="education-degree"><img src="/assets/icons8-education-48.png" class="inline-icon" width="20" height="20" alt="Education"> <em>Bachelor of Arts in Economics<br>&amp; Bachelor of Science in Mathematics</em></span>
       <span class="education-dates">Sept 2016 – May 2020</span>
     </div>
     <div class="education-info-row" style="display:flex;justify-content:space-between;align-items:baseline;">
